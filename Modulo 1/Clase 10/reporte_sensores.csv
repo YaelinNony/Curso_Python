@@ -1,0 +1,4 @@
+SensorID,Ubicacion,Temperatura_C,Humedad
+SN-001,Almacen_1,25.4,55
+SN-002,Laboratorio,22.8,40
+SN-003,Almacen_2,26.1,60

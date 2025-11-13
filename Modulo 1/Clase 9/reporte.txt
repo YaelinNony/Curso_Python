@@ -1,0 +1,6 @@
+--- REPORTE DE CONTROL DE CALIDAD ---
+Total de piezas aprobadas: 3
+====================
+Pieza: SN-101-Motor
+Pieza: SN-103-Chasis
+Pieza: SN-104-Sensor

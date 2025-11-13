@@ -1,0 +1,8 @@
+ERROR: 2025-10-27 22:09:15.309145
+  Modulo: modulo_principal
+  Tipo: invalid literal for int() with base 10: 'hola'
+--------------------
+ERROR: 2025-10-27 22:09:17.780795
+  Modulo: modulo_principal
+  Tipo: invalid literal for int() with base 10: 'hola'
+--------------------
